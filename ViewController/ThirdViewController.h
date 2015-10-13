@@ -11,4 +11,5 @@
 @interface ThirdViewController : RootViewController
 @property(nonatomic,retain)NSString* string;
 @property(nonatomic,retain)NSString*stsaring;
+@property(nonatomic,retain)NSString* srting;
 @end
